@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Memory Unlocked',
+  title: 'When Your With the right people',
   description: 'Scan the QR to watch the memory.',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
 };
