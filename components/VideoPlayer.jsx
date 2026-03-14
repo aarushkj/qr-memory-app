@@ -28,7 +28,7 @@ export default function VideoPlayer() {
       </div>
 
       <div className="title-panel">
-        <h1>MEMORY UNLOCKED!</h1>
+        <h1>When Your With the right people</h1>
       </div>
 
       <div className="video-panel" onClick={handleTap}>
